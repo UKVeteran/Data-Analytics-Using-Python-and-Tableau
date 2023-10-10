@@ -2,17 +2,6 @@
 
 ## Python Projects
 
-### Sales Analysis
-
-
-### Loan Analysis
-
-
-
-### Sentiment Analysis
-
-
-
 ## Tableau Projects
 
 ### Sales Analysis
